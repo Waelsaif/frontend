@@ -1,0 +1,30 @@
+h1{
+    color: darkslategray;
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 30%;
+    margin:auto ; /*يخلي الباقي من الويدث مارجن ويصير في النص */
+    /* border-width: 3px 2px;
+    border-style: solid;
+    border-color: cornflowerblue darkslategrey; */
+    border: 3px solid darkslategray;
+    text-align: center;
+}
+p{
+    color:white;
+    background-color: darkslategrey;
+    border: 3px solid blanchedalmond;
+    padding: 10px;
+    width: 15%;
+    margin-left: 5%;
+    margin-top: 25px;
+    display:inline-block ;
+}
+.si{
+    color:black;
+    background-color: papayawhip;
+    border: 3px solid blanchedalmond;
+    padding: 10px;
+    width: 15%;
+    margin-left: 5%; 
+}
